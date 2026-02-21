@@ -34,8 +34,8 @@ Nexu is a high-performance digital agency landing page built with the latest web
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kunalsuvosaha/nexu-agency.git
-   cd nexu-agency
+   git clone https://github.com/kunalsuvosaha/nexu-agency-next.git
+   cd nexu-agency-next
    ```
 
 2. **Install dependencies:**
@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✉️ Contact
 
-Project Link: [https://github.com/kunalsuvosaha/nexu-agency](https://github.com/kunalsuvosaha/nexu-agency)
+Project Link: [https://github.com/kunalsuvosaha/nexu-agency-next](https://github.com/kunalsuvosaha/nexu-agency-next)
